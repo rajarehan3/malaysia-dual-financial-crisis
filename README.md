@@ -52,3 +52,21 @@ To install the required packages, run:
 
 ```bash
 pip install -r requirements.txt
+
+## How to Run the Code
+
+1. Install Python.
+2. Install the required packages using the `requirements.txt` file.
+3. Obtain the processed dataset from the OSF repository.
+4. Update the file paths in `CaseStudy.py` to match the location of the datasets on your computer.
+5. Run `CaseStudy.py`.
+
+The script performs the descriptive statistical analysis and independent-samples t-tests and generates the corresponding output tables in Excel format.
+
+## Authors
+
+Rehan et al.
+
+## License
+
+This software is released under the MIT License.
